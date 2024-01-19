@@ -1,13 +1,13 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import sklearn
-import numpy as np
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import StandardScaler
-from xgboost import XGBRegressor
+# import sklearn
+# import numpy as np
+# from sklearn.compose import ColumnTransformer
+# from sklearn.preprocessing import OneHotEncoder
+# from sklearn.pipeline import Pipeline
+# from sklearn.preprocessing import StandardScaler
+# from xgboost import XGBRegressor
 
 teams = [
     'Australia',
